@@ -85,7 +85,7 @@ h1 {
   align-items: baseline;
   justify-content: space-evenly;
   text-align: center;
-  color: #22304A !important;
+  color: #ffffff !important;
 }
 
 #playersList .player-card {
@@ -222,7 +222,7 @@ button:hover {
 /* Couleur case jour passé */
 :root {   
   --fc-neutral-bg-color: #585858f0;
-  --fc-today-bg-color: #c89c4dba;
+  --fc-today-bg-color: ##7e3997ba;
 }
 
 .fc-h-event {
@@ -251,7 +251,7 @@ button:hover {
 }
 
 #eventModal .modal-content button {
-  background: #7e3997;
+  background: #b950df;
   color: white;
 }
 
