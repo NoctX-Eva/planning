@@ -55,7 +55,7 @@ h1 {
   cursor: pointer;
   font-weight: bold;
   font-size: 18px;
-  color: #22304A;
+  color: #2a0039;
 }
 
 .week-day.active {
@@ -141,11 +141,11 @@ background: #b950df !important;
 }
 
 .modal-content {
-  background: #c89c4d;
+  background: #7e3997;
   padding: 20px;
   border-radius: 10px;
   width: 320px;
-  color: #22304A;
+  color: #ffffff;
   font-weight: bold;
 }
 
