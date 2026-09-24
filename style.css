@@ -178,7 +178,7 @@ button:hover {
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  background-color: #22304a;
+  background-color: #b950df;
   color: #ffffff;
 }
 
@@ -187,8 +187,8 @@ button:hover {
   text-align: center;
   margin-bottom: 10px;
   font-size: 22px;
-  background: #c89c4d;
-  color: #22304A !important;
+  background: #7e3997;
+  color: #ffffff !important;
   padding: 6px;
   border-radius: 8px;
   font-weight: bold;
@@ -196,19 +196,19 @@ button:hover {
 
 #modalPlayerName {
   font-weight: bold;
-  color: #22304A;
+  color: #ffffff;
 }
 
 .fc .fc-button{
-  background-color: #c89c4d !important;
-  border-color: #c89c4d !important;
-  color: #22304A !important;
+  background-color: #7e3997 !important;
+  border-color: #7e3997 !important;
+  color: #ffffff !important;
   font-weight: bold !important;
 }
 
 .fc .fc-button:hover {
-  background-color: #E6C35C !important;
-  border-color: #E6C35C !important;
+  background-color: #b950df !important;
+  border-color: #b950df !important;
 }
 
 .fc .fc-button:disabled{
@@ -226,23 +226,23 @@ button:hover {
 }
 
 .fc-h-event {
-  border: 5px solid #22304A;
+  border: 5px solid #b950df;
   font-weight: 700;
   font-size: 14px;
 }
 
 /* Bouton edit username */
 .edit-btn {
-  background: #E6C35C !important;
+  background: #2a0039 !important;
   border: none !important;
   cursor: pointer !important;
-  color: #22304A !important;
+  color: #ffffff !important;
   font-weight: bold !important;
   font-size: 16px !important;
 }
 
 .edit-btn:hover {
-  background: #22304A !important;
+  background: #b950df !important;
   border: none !important;
   cursor: pointer !important;
   color: #ffffff !important;
@@ -251,21 +251,21 @@ button:hover {
 }
 
 #eventModal .modal-content button {
-  background: #22304A;
+  background: #7e3997;
   color: white;
 }
 
 #createEventBtn {
-  background: #c89c4d !important;
-  color: #22304A !important;
+  background: #7e3997 !important;
+  color: #ffffff !important;
   width: 199.4px;
 }
 
 #createEventBtn:hover {
-  background: #E6C35C !important;
+  background: #b950df !important;
   border: none !important;
   cursor: pointer !important;
-  color: #22304A !important;
+  color: #ffffff !important;
   font-weight: bold !important;
   font-size: 16px !important;
 }
