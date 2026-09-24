@@ -223,8 +223,8 @@ async function loadAll() {
       id: d.id,
       title: `${data.player} (${data.start}-${data.end})`,
       start: data.date,
-      backgroundColor: "#22304A",   // 👈 couleur joueurs
-      borderColor: "#22304A",
+      backgroundColor: "#2a0039",   // 👈 couleur joueurs
+      borderColor: "#2a0039",
       textColor: "#ffffff",
       extendedProps: { ...data, type: "avail" }
     });
@@ -237,9 +237,9 @@ async function loadAll() {
       id: d.id,
       title: `🎮 ${data.title} (${data.start}-${data.end})`,
       start: data.date,
-      backgroundColor: "#E6C35C",   // 👈 couleur events
-      borderColor: "#E6C35C",
-      textColor: "#22304A",
+      backgroundColor: "#b950df",   // 👈 couleur events
+      borderColor: "##b950df",
+      textColor: "#2a0039",
       extendedProps: { ...data, type: "event", participants: data.participants || {} }
     });
   });
