@@ -222,7 +222,7 @@ button:hover {
 /* Couleur case jour passé */
 :root {   
   --fc-neutral-bg-color: #585858f0;
-  --fc-today-bg-color: ##7e3997ba;
+  --fc-today-bg-color: #7e3997ba;
 }
 
 .fc-h-event {
